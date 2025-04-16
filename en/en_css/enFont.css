@@ -1,0 +1,125 @@
+
+
+
+
+@font-face {
+    font-family: 'normal_font_bold';
+    src:
+     url('../en_font/Kanit-Regular.woff2') format('woff2'), 
+     /* Modern browsers */
+            url('../en_font/Kanit-Regular.woff') format('woff'), 
+              /* Older browsers */
+            url('../en_font/Kanit-Regular.ttf') format('truetype'); /* Fallback */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'normal_font2_100';
+    src: 
+    url('../en_font/Kanit-100.woff2') format('woff2'), 
+    /* Modern browsers */
+            url('../en_font/Kanit-100.woff') format('woff'),  
+             /* Older browsers */
+            url('../en_font/Kanit-100.ttf') format('truetype'); /* Fallback */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    }
+
+@font-face {
+    font-family: 'normal_font';
+    src: 
+    url('../en_font/Kanit-200.woff2') format('woff2'), 
+    /* Modern browsers */
+            url('../en_font/Kanit-200.woff') format('woff'),  
+             /* Older browsers */
+            url('../en_font/Kanit-200.ttf') format('truetype'); /* Fallback */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    }
+
+
+@font-face {
+    font-family: 'normal_font_bold_2';
+    src: 
+    url('../en_font/Kanit-SemiBold.woff2') format('woff2'), 
+    /* Modern browsers */
+            url('../en_font/Kanit-SemiBold.woff') format('woff'),   
+            /* Older browsers */
+            url('../en_font/Kanit-SemiBold.ttf') format('truetype'); /* Fallback */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'AddressFont';
+        src: 
+        url('../en_font/FugazOne-Regular.woff2') format('woff2'),
+             url('../en_font/FugazOne-Regular.woff') format('woff'),
+             url('../en_font/FugazOne-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+
+@font-face {
+    font-family: 'menu_font';
+    src: 
+    url('../en_font/BeauRivage-Regular.woff2') format('woff2'),
+     /* Modern browsers */
+            url('../en_font/BeauRivage-Regular.woff') format('woff'),  
+             /* Older browsers */
+            url('../en_font/BeauRivage-Regular.ttf') format('truetype'); /* Fallback */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'davudtech_font';
+        src: 
+        url('../en_font/AntonSC-Regular.woff2') format('woff2'),
+         /* Modern browsers */
+                url('../en_font/AntonSC-Regular.woff') format('woff'),   
+                /* Older browsers */
+                url('../en_font/AntonSC-Regular.ttf') format('truetype'); /* Fallback */
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+        }
+
+@font-face {
+    font-family: 'sloganFont';
+    src: 
+    url('../en_font/ZenDots-Regular.woff2') format('woff2'),
+         url('../en_font/ZenDots-Regular.woff') format('woff'),
+         url('../en_font/ZenDots-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'dashFont';
+    src: 
+    url('../en_font/OpenSans-Light.woff2') format('woff2'),
+         url('../en_font/OpenSans-Light.woff') format('woff'),
+         url('../en_font/OpenSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'statisticFont';
+    src: 
+    url('../en_font/Montserrat-MediumItalic.woff2') format('woff2'),
+         url('../en_font/Montserrat-MediumItalic.woff') format('woff'),
+         url('../en_font/Montserrat-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
